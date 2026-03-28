@@ -1,0 +1,20 @@
+{
+    "Random Forest": {
+        "Accuracy": 0.807,
+        "Precision": 0.8178053830227743,
+        "Recall": 0.79,
+        "F1-score": 0.8036622583926755
+    },
+    "Logistic Regression": {
+        "Accuracy": 0.753,
+        "Precision": 0.7555555555555555,
+        "Recall": 0.748,
+        "F1-score": 0.7517587939698492
+    },
+    "SVM": {
+        "Accuracy": 0.749,
+        "Precision": 0.7665952890792291,
+        "Recall": 0.716,
+        "F1-score": 0.7404343329886246
+    }
+}
